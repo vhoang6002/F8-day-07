@@ -150,6 +150,7 @@ h1 {
 .breadcrumb a {
   color: var(--white);
   text-decoration: none;
+  transition: all 0.3s ease-in-out;
 }
 .breadcrumb a:hover {
   color: var(--secondary-color);
